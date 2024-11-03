@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Passwords_Crafter": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Varios_Passwords_Crafter",
+      "nativeDebugging": true,
+      "jsWebView2Debugging": false
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

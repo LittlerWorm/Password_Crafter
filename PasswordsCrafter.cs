@@ -1,4 +1,4 @@
-﻿namespace Passwords_Crafter
+﻿namespace PasswordsCrafter2
 {
     /* ----------------------------------------------------------------------------------------
      * ----------------------- Programa generador de Password ---------------------------------
